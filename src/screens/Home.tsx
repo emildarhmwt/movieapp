@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState }  from "react";
 import { View, Text, Button, StyleSheet, ScrollView, StatusBar} from 'react-native';
 import { useNavigation } from "@react-navigation/native";
 import type {MovieListProps} from '../types/app'

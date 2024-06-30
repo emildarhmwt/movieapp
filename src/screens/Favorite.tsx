@@ -77,10 +77,10 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
   },
   movieItem: {
-    width: 110,
+    width: 100,
     height: 200,
-    marginHorizontal: 4,
-    marginBottom: 8,
+    marginHorizontal: 35,
+    marginBottom: 20,
   },
 emptyContainer: {
     flex: 1,
